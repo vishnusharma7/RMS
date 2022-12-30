@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import javax.sound.sampled.SourceDataLine;
 
-public class Restaurant {
+public class RMS {
     public static void main(String[] args) {
         int i = 0, count = 0;
         Scanner sc = new Scanner(System.in);
